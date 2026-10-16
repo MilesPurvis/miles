@@ -1,0 +1,30 @@
+body {
+  font-family: "Cormorant Garamond", Georgia, serif;
+}
+
+.job {
+  margin-bottom: 1.25rem;
+}
+
+.job p {
+  margin: 0;
+}
+
+.job-name {
+  font-weight: 600;
+}
+
+.job-dates {
+  color: #71717a;
+}
+
+.job-role {
+  margin-top: 0.125rem;
+  color: #52525b;
+}
+
+.job-desc {
+  margin-top: 0.25rem;
+  line-height: 1.625;
+  color: #18181b;
+}
