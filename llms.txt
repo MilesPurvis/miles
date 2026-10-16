@@ -1,0 +1,14 @@
+# Miles Purvis
+
+> Software engineer based in Waterloo, Ontario. Currently at Vidyard, building and scaling core features for web applications and backend services.
+
+## Work
+
+- Software Engineer, Vidyard (present): building and scaling core features for web applications and backend services.
+
+## Links
+
+- [Website](https://milespurvis.me/)
+- [GitHub](https://github.com/MilesPurvis)
+- [LinkedIn](https://www.linkedin.com/in/miles-purvis)
+- [Email](mailto:milesjsp@gmail.com)
