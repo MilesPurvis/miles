@@ -1,30 +1,88 @@
 body {
   font-family: "Cormorant Garamond", Georgia, serif;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 4rem 1rem;
+  color: #18181b;
+  background: #fff;
+  line-height: 1.6;
 }
 
-.job {
-  margin-bottom: 1.25rem;
+a {
+  color: #52525b;
+  text-underline-offset: 0.15em;
 }
 
-.job p {
+a:hover {
+  color: #18181b;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #e4e4e7;
+  margin: 2rem 0;
+}
+
+h1 {
   margin: 0;
-}
-
-.job-name {
+  font-size: 2.25rem;
   font-weight: 600;
+  line-height: 1.2;
 }
 
-.job-dates {
+.tagline {
+  margin: 0.25rem 0 0;
+  font-style: italic;
+  color: #52525b;
+}
+
+.links {
+  margin: 0.75rem 0 0;
+  color: #a1a1aa;
+}
+
+h2 {
+  margin: 2.5rem 0 1rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
   color: #71717a;
 }
 
-.job-role {
+footer {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+  color: #a1a1aa;
+}
+
+.entry {
+  margin-bottom: 1.25rem;
+}
+
+.entry p {
+  margin: 0;
+}
+
+.entry-name {
+  font-weight: 600;
+}
+
+.entry-dates {
+  color: #71717a;
+}
+
+.entry-role {
   margin-top: 0.125rem;
   color: #52525b;
 }
 
-.job-desc {
+.entry-desc {
   margin-top: 0.25rem;
   line-height: 1.625;
   color: #18181b;
+}
+
+a.entry-name {
+  color: inherit;
 }

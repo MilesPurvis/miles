@@ -10,6 +10,14 @@
 
 - Chef de Partie to Sous Chef, Michelin-starred and high-end kitchens across Canada and Europe (2017–2022).
 
+## Projects
+
+- [LapAnalysis](https://github.com/MilesPurvis/LapAnalysis) (2026): Rust app that downloads AiM motorsport data logger sessions over Wi-Fi and browses laps, GPS maps, channel charts and optimal segments offline.
+
+## Research
+
+- [English Accent Classifier](https://huggingface.co/MilesPurvis/english-accent-classifier) (2025): Wav2Vec2 model fine-tuned on Mozilla Common Voice 23.0 to classify six English accents.
+
 ## Links
 
 - [Website](https://milespurvis.me/)
